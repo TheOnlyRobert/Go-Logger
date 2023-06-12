@@ -1,3 +1,3 @@
-module github.com/TheOnlyRobert/Go-Logger
+module github.com/TheOnlyRobert/log
 
 go 1.20
