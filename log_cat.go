@@ -1,4 +1,4 @@
-package logger
+package log
 
 // LogCat holds data regarding a logging category.
 // Logging levels (INFO, WARN, ERROR)
