@@ -11,6 +11,9 @@ var (
 	// LogCatStartUp usage: service startup message
 	LogCatStartUp = LogCat{Code: "STT001", Type: "service_startup"}
 
+	// LogCatStartUp usage: service startup message
+	LogCatShutDown = LogCat{Code: "STT002", Type: "service_shutdown"}
+
 	// LogCatHealth usage: health check message
 	LogCatHealth = LogCat{Code: "HTH001", Type: "health_check"}
 
